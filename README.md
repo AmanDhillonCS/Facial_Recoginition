@@ -1,2 +1,2 @@
-# Facial_Recoginition
-A simple python program that detects faces using cv2 framework
+# Hand-Tracker
+A simple python program that detects hands using cv2 framework
